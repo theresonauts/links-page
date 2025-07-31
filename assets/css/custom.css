@@ -1,0 +1,10 @@
+.link-press-photos {
+  fill: #fff;
+  background: rgb(23, 7, 69);
+  background: linear-gradient(
+    90deg,
+    rgb(77, 11, 159) 0%,
+    rgb(0, 123, 172) 50%,
+    rgb(245, 217, 7) 100%
+  );
+}

@@ -16,7 +16,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { instagram = "https://www.instagram.com/p/DMx12WqRlzW/" },
     { youtube = "https://www.youtube.com/@TheResonauts" },
-    { flickr = "https://www.flickr.com/photos/203113095@N04/" },
+    { press-photos = {href = "https://www.flickr.com/photos/203113095@N04/", text = "Press Photos"} },
     { facebook = "https://www.facebook.com/people/The-Resonauts/61577069911906/" },
     { email = "mailto:resonautsbooking@gmail.com" },
     # { link = "https://link-to-some-website.com/" },
