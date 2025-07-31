@@ -14,11 +14,11 @@ disableKinds = ["taxonomy", "term"]
   image = "img/resonauts.jpg"  # path relative to static directory
 
   links = [
-    { email = "mailto:resonautsbooking@gmail.com" },
-    { instagram = "https://www.instagram.com/theresonauts/" },
+    { instagram = "https://www.instagram.com/p/DMx12WqRlzW/" },
     { youtube = "https://www.youtube.com/@TheResonauts" },
     { flickr = "https://www.flickr.com/photos/203113095@N04/" },
     { facebook = "https://www.facebook.com/people/The-Resonauts/61577069911906/" },
+    { email = "mailto:resonautsbooking@gmail.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
