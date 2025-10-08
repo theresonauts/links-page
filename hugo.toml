@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "The Resonauts"
-  headline = "Welcome earthlings! 🚀🎶"
+  headline = "Welcome earthlings! 🚀🎶 \n\nThe Resonauts are an acoustic stringed powerhouse based in Nashville, TN."
   image = "logo.jpg"
 
   links = [
