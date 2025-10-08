@@ -17,6 +17,7 @@ disableKinds = ["taxonomy", "term"]
     { instagram = "https://www.instagram.com/p/DPeSYrlEWN6/" },
     { youtube = "https://www.youtube.com/watch?v=IFcmzGC4_LI&list=PL_ap4VSfJBuIruTgDoMj_03Wogp8KORnb&index=2" },
     { press-photos = {href = "https://www.flickr.com/photos/203113095@N04/", text = "Press Photos"} },
+    { one-sheet = {href = "https://drive.google.com/file/d/1KQFOi-CGwA29pnNuvpfyte_mYOFx7-Rm/view?usp=sharing", text = "One Sheet"} },
     { facebook = "https://www.facebook.com/people/The-Resonauts/61577069911906/" },
     { email = "mailto:resonautsbooking@gmail.com" },
     # { link = "https://link-to-some-website.com/" },

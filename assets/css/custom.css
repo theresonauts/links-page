@@ -8,3 +8,14 @@
     rgb(245, 217, 7) 100%
   );
 }
+
+.link-one-sheet {
+  fill: #fff;
+  background: rgb(23, 7, 69);
+  background: linear-gradient(
+    90deg,
+    rgb(0, 121, 71) 0%,
+    rgb(68, 77, 80) 50%,
+    rgb(239, 6, 192) 100%
+  );
+}
