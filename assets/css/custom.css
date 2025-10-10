@@ -1,3 +1,11 @@
+h1 {
+  color: white !important;
+}
+
+body {
+  background: #000; /* pure black base */
+}
+
 .link-press-photos {
   fill: #fff;
   background: rgb(23, 7, 69);
