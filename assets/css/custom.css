@@ -1,9 +1,14 @@
 h1 {
+  color: rgb(221, 255, 0);
+}
+h2, h3, h4, h5, h6, p {
   color: white !important;
 }
 
 body {
-  background: #000; /* pure black base */
+  background-image: url("/pattern.jpg");
+  background-size:contain;
+  background-repeat:repeat;
 }
 
 .link-press-photos {

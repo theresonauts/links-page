@@ -10,8 +10,8 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "The Resonauts"
-  headline = "Welcome earthlings! 🚀🎶 \n\nThe Resonauts are an acoustic stringed powerhouse based in Nashville, TN."
-  image = "logo.jpg"
+  headline = "Welcome earthlings! 🚀\n\nThe Resonauts are an acoustic stringed powerhouse based in Nashville, TN."
+  image = "resonauts-logo.png"
 
   links = [
     { instagram = "https://www.instagram.com/p/DPeSYrlEWN6/" },
